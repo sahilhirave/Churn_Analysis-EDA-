@@ -16,7 +16,7 @@ This project analyzes a dataset of **7,043 customers** to identify key factors l
 
 ### 1. The Churn Baseline
 Out of the total customer base, **1,869 customers churned** (~26.5%). 
-> *Add Screenshot: `image/Count of customers Churn.png`*
+`image/Count of customers Churn.png`
 
 ### 2. High-Risk Segments
 - **Contract Type:** Customers on **Month-to-Month contracts** show drastically higher churn rates compared to long-term subscribers.
