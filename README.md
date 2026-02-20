@@ -39,4 +39,4 @@ Out of the total customer base, **1,869 customers churned** (~26.5%).
 4. Place `Customer_Data.csv` in the same directory and run all cells.
 
 ---
-**LinkedIn:** linkedin.com/in/sahil-hirawe-836b71217
+**LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-hirawe-836b71217)
