@@ -1,2 +1,2 @@
-# Churn_Analysis-EDA-
+# Churn_Analysis EDA
 Machine Learning #1 Project
